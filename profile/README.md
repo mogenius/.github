@@ -16,7 +16,7 @@
 
 ### What is mogenius? 🤔
 
-**mogenius** is your all-in-one cloud platform to **deploy**, **manage**, and **scale** applications effortlessly.
+***mogenius*** simplifies Kubernetes operations for both cloud and on-prem setups. It enables developers to effortlessly deploy, manage, and scale their applications in a Kubernetes workspace. Compliance is ensured across diverse infrastructures, reducing the need for ongoing DevOps support. ⚡️ Free plan available. ⚡️
 
 - 🌐 **Easy Deployment:** Launch your apps with a single click.
 - 📈 **Auto Scaling:** Seamlessly handle traffic spikes.
@@ -32,6 +32,7 @@
 - **API Documentation:** [api.mogenius.com](https://api-docs.mogenius.com) 🛠️
 - **Blog:** [Latest Articles](https://mogenius.com/blog) 📝
 - **YouTube Channel:** [Tutorials & Updates](https://www.youtube.com/@mogenius980) 📺
+- **Newsletter:** [Always up-to-date](https://mogenius.com/newsletter) 📧
 
 ---
 
@@ -40,6 +41,8 @@
 - **Twitter:** [@mogenius](https://twitter.com/mogenius) 🐦
 - **LinkedIn:** [mogenius](https://www.linkedin.com/company/mogenius) 💼
 - **Email:** [support@mogenius.com](mailto:support@mogenius.com) ✉️
+- **YouTube:** [https://www.youtube.com/@mogenius980](https://www.youtube.com/@mogenius980) 📺
+- **Reddit:** [https://www.reddit.com/user/mogeniuscom/](https://www.reddit.com/user/mogeniuscom/) 💬
 
 ---
 
