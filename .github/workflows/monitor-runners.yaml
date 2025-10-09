@@ -1,0 +1,29 @@
+name: Monitor GitHub Runners
+
+on:
+  schedule:
+    # Alle 5 Minuten prüfen
+    - cron: '*/5 1 * * *'
+  
+  # Erlaubt manuelles Triggern für Tests
+  workflow_dispatch:
+
+jobs:
+  check-runners:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+      
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+      
+      - name: Run Runner Monitor
+        run: node scripts/runner-monitor.js
+        env:
+          GITHUB_TOKEN: ${{ secrets.ORG_ADMIN_TOKEN }}
+          WEBHOOK_URL: ${{ secrets.ALERT_WEBHOOK }}
+          ORG_NAME: ${{ github.repository_owner }}
