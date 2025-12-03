@@ -5,7 +5,7 @@
 # Welcome to **mogenius**! 🚀
 
 **Simplify your cloud journey with mogenius.**
-
+[![Artifact Hub](https://img.shields.io/endpoint?url=https://artifacthub.io/badge/repository/mogenius)](https://artifacthub.io/packages/search?repo=mogenius)
 [![Website](https://img.shields.io/badge/Website-Visit-blue?style=flat-square&logo=google-chrome)](https://mogenius.com)
 [![Documentation](https://img.shields.io/badge/Docs-Explore-green?style=flat-square&logo=readthedocs)](https://docs.mogenius.com)
 [![API Docs](https://img.shields.io/badge/API%20Docs-Read-blueviolet?style=flat-square&logo=swagger)]([https://api.mogenius.com](https://api-docs.mogenius.com))
