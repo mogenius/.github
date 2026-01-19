@@ -1,9 +1,9 @@
 name: Monitor GitHub Runners
 
 on:
-  schedule:
+  # schedule:
     # Alle 5 Minuten prüfen
-    - cron: '*/10 * * * *'
+  #   - cron: '*/10 * * * *'
   
   # Erlaubt manuelles Triggern für Tests
   workflow_dispatch:
