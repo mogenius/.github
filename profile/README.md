@@ -5,23 +5,22 @@
 # Welcome to **mogenius**! 🚀
 
 **Simplify your cloud journey with mogenius.**
-[![Artifact Hub](https://img.shields.io/endpoint?url=https://artifacthub.io/badge/repository/mogenius)](https://artifacthub.io/packages/search?repo=mogenius)
 [![Website](https://img.shields.io/badge/Website-Visit-blue?style=flat-square&logo=google-chrome)](https://mogenius.com)
 [![Documentation](https://img.shields.io/badge/Docs-Explore-green?style=flat-square&logo=readthedocs)](https://docs.mogenius.com)
-[![API Docs](https://img.shields.io/badge/API%20Docs-Read-blueviolet?style=flat-square&logo=swagger)]([https://api.mogenius.com](https://api-docs.mogenius.com))
 [![Blog](https://img.shields.io/badge/Blog-Discover-orange?style=flat-square&logo=ghost)](https://mogenius.com/blog)
-[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-red?style=flat-square&logo=youtube)](https://www.youtube.com/@mogenius980)
+[![Artifact Hub](https://img.shields.io/endpoint?url=https://artifacthub.io/badge/repository/mogenius)](https://artifacthub.io/packages/search?repo=mogenius)
 
 ---
 
 ### What is mogenius? 🤔
 
-***mogenius*** simplifies Kubernetes operations for both cloud and on-prem setups. It enables developers to effortlessly deploy, manage, and scale their applications in a Kubernetes workspace. Compliance is ensured across diverse infrastructures, reducing the need for ongoing DevOps support. ⚡️ Free plan available. ⚡️
+***mogenius*** simplifies Kubernetes operations for both cloud and on-prem setups. It enables developers to effortlessly deploy, manage, and scale their applications with integrated GitOps workflows, intuitive interfaces, and AI-assisted troubleshooting. Compliance is ensured with isolated workspaces, audit logs, and RBAC, reducing the need for ongoing DevOps support.
 
-- 🌐 **Easy Deployment:** Launch your apps with a single click.
-- 📈 **Auto Scaling:** Seamlessly handle traffic spikes.
-- 🔄 **CI/CD Integration:** Streamline your development workflow.
-- 📊 **Real-time Monitoring:** Keep tabs on performance and uptime.
+- 🌐 **Intuitive Deployment:** Launch your apps on Kubernetes with a few clicks.
+- 📈 **GitOps Workflows:** Single source of truth in Git - without compromising on Developer Experience.
+- 🤖 **AI-assisted troubleshooting:** Integrated agents for contextual guidance in Kubernetes.
+- 🔄 **Pipeline Integrations:** Connect your existing tools and workflows.
+- 📊 **Real-time Monitoring:** Monitor your workloads without jumping between tools.
 
 ---
 
@@ -29,20 +28,16 @@
 
 - **Website:** [mogenius.com](https://mogenius.com) 🌐
 - **Documentation:** [docs.mogenius.com](https://docs.mogenius.com) 📚
-- **API Documentation:** [api.mogenius.com](https://api-docs.mogenius.com) 🛠️
 - **Blog:** [Latest Articles](https://mogenius.com/blog) 📝
-- **YouTube Channel:** [Tutorials & Updates](https://www.youtube.com/@mogenius980) 📺
 - **Newsletter:** [Always up-to-date](https://mogenius.com/newsletter) 📧
 
 ---
 
 ### Connect with Us 📫
 
-- **Twitter:** [@mogenius](https://twitter.com/mogenius) 🐦
 - **LinkedIn:** [mogenius](https://www.linkedin.com/company/mogenius) 💼
 - **Email:** [support@mogenius.com](mailto:support@mogenius.com) ✉️
 - **YouTube:** [https://www.youtube.com/@mogenius980](https://www.youtube.com/@mogenius980) 📺
-- **Reddit:** [https://www.reddit.com/user/mogeniuscom/](https://www.reddit.com/user/mogeniuscom/) 💬
 
 ---
 
