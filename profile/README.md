@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://imagedelivery.net/T7YEW5IAgZJ0dY4-LDTpyQ/3ae4fcf0-289c-48d2-3323-d2c5bc932300/detail" alt="mogenius Logo" width="200"/>
+  <img src="https://imagedelivery.net/T7YEW5IAgZJ0dY4-LDTpyQ/736fdc81-26a0-4af3-04e5-cb1a98f51600/w=800" alt="mogenius Logo" width="200"/>
 </p>
 
 # Welcome to **mogenius**! 🚀
