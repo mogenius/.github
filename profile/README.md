@@ -5,6 +5,7 @@
 # Welcome to **mogenius**! 🚀
 
 **Simplify your cloud journey with mogenius.**
+
 [![Website](https://img.shields.io/badge/Website-Visit-blue?style=flat-square&logo=google-chrome)](https://mogenius.com)
 [![Documentation](https://img.shields.io/badge/Docs-Explore-green?style=flat-square&logo=readthedocs)](https://docs.mogenius.com)
 [![Blog](https://img.shields.io/badge/Blog-Discover-orange?style=flat-square&logo=ghost)](https://mogenius.com/blog)
