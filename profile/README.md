@@ -45,8 +45,8 @@
 ### Watch Our Latest Video! 🎥
 
 <p align="center">
-  <a href="https://www.youtube.com/watch?v=Otpc8gum2RQ">
-    <img src="https://img.youtube.com/vi/Otpc8gum2RQ/maxresdefault.jpg" alt="Simplify your Kubernetes Operations with mogenius" width="600"/>
+  <a href="https://www.youtube.com/watch?v=G5_fFERQP3g">
+    <img src="https://img.youtube.com/vi/G5_fFERQP3g/maxresdefault.jpg" alt="mogenius: Kubernetes Platform Engineering with AI Governance" width="600"/>
   </a>
 </p>
 
